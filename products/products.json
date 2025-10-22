@@ -1,0 +1,305 @@
+{
+  "products": [
+    {
+      "code": "BAT001",
+      "name": "Batman: Año Uno",
+      "price": 3500,
+      "stock": 10,
+      "category": "Batman"
+    },
+    {
+      "code": "BAT002",
+      "name": "Batman: The Dark Knight Returns",
+      "price": 4200,
+      "stock": 5,
+      "category": "Batman"
+    },
+    {
+      "code": "BAT003",
+      "name": "Batman: The Killing Joke",
+      "price": 3800,
+      "stock": 8,
+      "category": "Batman"
+    },
+    {
+      "code": "BAT004",
+      "name": "Batman: Hush",
+      "price": 4500,
+      "stock": 6,
+      "category": "Batman"
+    },
+    {
+      "code": "BAT005",
+      "name": "Batman: Corte de los Búhos",
+      "price": 4000,
+      "stock": 7,
+      "category": "Batman"
+    },
+    {
+      "code": "BAT006",
+      "name": "Batman: Muerte en la Familia",
+      "price": 3600,
+      "stock": 4,
+      "category": "Batman"
+    },
+    {
+      "code": "BAT007",
+      "name": "Batman: Arkham Asylum",
+      "price": 5000,
+      "stock": 3,
+      "category": "Batman"
+    },
+    {
+      "code": "BAT008",
+      "name": "Batman: El Largo Halloween",
+      "price": 4800,
+      "stock": 5,
+      "category": "Batman"
+    },
+    {
+      "code": "SUP001",
+      "name": "Superman: Red Son",
+      "price": 3800,
+      "stock": 8,
+      "category": "Superman"
+    },
+    {
+      "code": "SUP002",
+      "name": "Superman: All-Star Superman",
+      "price": 4500,
+      "stock": 6,
+      "category": "Superman"
+    },
+    {
+      "code": "SUP003",
+      "name": "Superman: Hijo Rojo",
+      "price": 3200,
+      "stock": 10,
+      "category": "Superman"
+    },
+    {
+      "code": "SUP004",
+      "name": "Superman: Identidad Secreta",
+      "price": 4000,
+      "stock": 5,
+      "category": "Superman"
+    },
+    {
+      "code": "SUP005",
+      "name": "Superman: La Muerte de Superman",
+      "price": 5200,
+      "stock": 4,
+      "category": "Superman"
+    },
+    {
+      "code": "WW001",
+      "name": "Wonder Woman: Tierra Uno",
+      "price": 4200,
+      "stock": 7,
+      "category": "Wonder Woman"
+    },
+    {
+      "code": "WW002",
+      "name": "Wonder Woman: Hiketeia",
+      "price": 3500,
+      "stock": 5,
+      "category": "Wonder Woman"
+    },
+    {
+      "code": "WW003",
+      "name": "Wonder Woman: Diosa de la Guerra",
+      "price": 3800,
+      "stock": 6,
+      "category": "Wonder Woman"
+    },
+    {
+      "code": "FLA001",
+      "name": "Flash: Renacimiento",
+      "price": 3600,
+      "stock": 8,
+      "category": "Flash"
+    },
+    {
+      "code": "FLA002",
+      "name": "Flash: Flashpoint",
+      "price": 4800,
+      "stock": 4,
+      "category": "Flash"
+    },
+    {
+      "code": "JL001",
+      "name": "Justice League: Origin",
+      "price": 4000,
+      "stock": 10,
+      "category": "Justice League"
+    },
+    {
+      "code": "JL002",
+      "name": "Justice League: Torre de Babel",
+      "price": 3800,
+      "stock": 6,
+      "category": "Justice League"
+    },
+    {
+      "code": "SM001",
+      "name": "Spider-Man: Kraven's Last Hunt",
+      "price": 4000,
+      "stock": 12,
+      "category": "Spider-Man"
+    },
+    {
+      "code": "SM002",
+      "name": "Spider-Man: Blue",
+      "price": 3500,
+      "stock": 8,
+      "category": "Spider-Man"
+    },
+    {
+      "code": "SM003",
+      "name": "Ultimate Spider-Man Vol 1",
+      "price": 3200,
+      "stock": 15,
+      "category": "Spider-Man"
+    },
+    {
+      "code": "SM004",
+      "name": "Spider-Man: La Noche que Murió Gwen",
+      "price": 4500,
+      "stock": 5,
+      "category": "Spider-Man"
+    },
+    {
+      "code": "SM005",
+      "name": "Spider-Man: Maximum Carnage",
+      "price": 5000,
+      "stock": 4,
+      "category": "Spider-Man"
+    },
+    {
+      "code": "SM006",
+      "name": "Spider-Man: Into the Spider-Verse",
+      "price": 3800,
+      "stock": 10,
+      "category": "Spider-Man"
+    },
+    {
+      "code": "XM001",
+      "name": "X-Men: Días del Futuro Pasado",
+      "price": 4200,
+      "stock": 7,
+      "category": "X-Men"
+    },
+    {
+      "code": "XM002",
+      "name": "X-Men: Fénix Oscura",
+      "price": 4800,
+      "stock": 5,
+      "category": "X-Men"
+    },
+    {
+      "code": "XM003",
+      "name": "X-Men: God Loves, Man Kills",
+      "price": 3600,
+      "stock": 8,
+      "category": "X-Men"
+    },
+    {
+      "code": "XM004",
+      "name": "X-Men: Astonishing X-Men",
+      "price": 4000,
+      "stock": 6,
+      "category": "X-Men"
+    },
+    {
+      "code": "XM005",
+      "name": "X-Men: House of M",
+      "price": 5200,
+      "stock": 4,
+      "category": "X-Men"
+    },
+    {
+      "code": "AVG001",
+      "name": "Avengers: Infinity Gauntlet",
+      "price": 5500,
+      "stock": 3,
+      "category": "Avengers"
+    },
+    {
+      "code": "AVG002",
+      "name": "Avengers: Endgame",
+      "price": 4800,
+      "stock": 6,
+      "category": "Avengers"
+    },
+    {
+      "code": "AVG003",
+      "name": "Avengers: Kree-Skrull War",
+      "price": 4200,
+      "stock": 5,
+      "category": "Avengers"
+    },
+    {
+      "code": "AVG004",
+      "name": "Avengers vs X-Men",
+      "price": 4500,
+      "stock": 7,
+      "category": "Avengers"
+    },
+    {
+      "code": "IM001",
+      "name": "Iron Man: Extremis",
+      "price": 3800,
+      "stock": 9,
+      "category": "Iron Man"
+    },
+    {
+      "code": "IM002",
+      "name": "Iron Man: Demon in a Bottle",
+      "price": 3500,
+      "stock": 6,
+      "category": "Iron Man"
+    },
+    {
+      "code": "IM003",
+      "name": "Invincible Iron Man Vol 1",
+      "price": 3200,
+      "stock": 10,
+      "category": "Iron Man"
+    },
+    {
+      "code": "CA001",
+      "name": "Captain America: Winter Soldier",
+      "price": 4500,
+      "stock": 8,
+      "category": "Captain America"
+    },
+    {
+      "code": "CA002",
+      "name": "Captain America: Civil War",
+      "price": 4800,
+      "stock": 5,
+      "category": "Captain America"
+    },
+    {
+      "code": "CA003",
+      "name": "Captain America: The Death of Captain America",
+      "price": 4200,
+      "stock": 6,
+      "category": "Captain America"
+    },
+    {
+      "code": "DP001",
+      "name": "Deadpool: Mata al Universo Marvel",
+      "price": 3600,
+      "stock": 12,
+      "category": "Deadpool"
+    },
+    {
+      "code": "DP002",
+      "name": "Deadpool: Masacre",
+      "price": 3200,
+      "stock": 10,
+      "category": "Deadpool"
+    }
+  ]
+}
